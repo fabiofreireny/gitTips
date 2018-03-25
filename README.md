@@ -1,11 +1,9 @@
 # gitTips
 Tips and Tricks for using git
 
-How to create new repository on github and upload your files to it
-
+##To create new repository on github and upload your files to it
 - create repository on github, create readme.md
-
-Locally:
+###Locally:
 - Go to the parent folder
 - git clone <url>
 - Go to the newly created git local repository
@@ -16,6 +14,6 @@ Locally:
 
 Refresh github, the file(s) should be there
 
-To discard local changes and pull latest from remote repository
+##To discard local changes and pull latest from remote repository
 - git checkout <file(s)>
 - git pull
