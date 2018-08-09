@@ -19,7 +19,7 @@ Refresh github, the file(s) should be there
 - git pull
 
 ## Branches
-- git checkout -b <branchName> # create branch
-- git checkout <branchName> # switch to branch
+- git checkout -b [branchName] # create branch
+- git checkout [branchName] # switch to branch
 - git branch # list branches (and where you are)
   
