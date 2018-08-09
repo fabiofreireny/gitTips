@@ -17,3 +17,9 @@ Refresh github, the file(s) should be there
 ## To discard local changes and pull latest from remote repository
 - git checkout <file(s)>
 - git pull
+
+## Branches
+- git checkout -b <branchName> # create branch
+- git checkout <branchName> # switch to branch
+- git branch # list branches (and where you are)
+  
